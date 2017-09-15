@@ -1,0 +1,5 @@
+projectKey=com.allen:testPOI
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.allen:testPOI
+ceTaskId=AVrGQC_NjDT8tlMzOgpo
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVrGQC_NjDT8tlMzOgpo
